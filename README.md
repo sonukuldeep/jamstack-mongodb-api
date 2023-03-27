@@ -26,6 +26,8 @@ If you have an existing cluster, you can use it. Take note of your cluster name 
 
 <img src='images/Screenshot_1.png' alt='Read and write' />
 
+Go to Data Api -> settings and make sure it is enabled 
+
 ## Task 4: Create a Data API Key
 
 1. From the **Data API** page, select the **Create API key** button at the top right.
