@@ -24,6 +24,8 @@ If you have an existing cluster, you can use it. Take note of your cluster name 
 1. Enable the Data API by selecting your cluster and adding **Read and Write** access to it.
 1. Take note of your **URL Endpoint**.
 
+<img src='images/Screenshot_1.png' alt='Read and write' />
+
 ## Task 4: Create a Data API Key
 
 1. From the **Data API** page, select the **Create API key** button at the top right.
@@ -31,6 +33,9 @@ If you have an existing cluster, you can use it. Take note of your cluster name 
 1. Copy the API key and save it somewhere (you will not be able to see it again 🙈).
 
 > Technically, this is all we have to do in order to enable the Data API. The next 2 tasks will allow us to connect to our database and load sample data in our next lesson.
+
+Task -5 and task skip can be skipped by adding data directly from website.
+<hr>
 
 ## Task 5: Enable network and user access
 
