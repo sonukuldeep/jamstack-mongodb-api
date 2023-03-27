@@ -8,6 +8,11 @@
 
 The goal of this lesson is to load a sample data set into your MongoDB database.
 
+> Just go to database -> browse collections -> insert document
+and skip below steps
+
+<hr>
+
 > Be sure to switch to the `3-lesson` branch in your local environment.
 
 ## Task 1: Load Sample Data
