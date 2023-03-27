@@ -34,7 +34,7 @@ If you have an existing cluster, you can use it. Take note of your cluster name 
 
 > Technically, this is all we have to do in order to enable the Data API. The next 2 tasks will allow us to connect to our database and load sample data in our next lesson.
 
-Task -5 and task skip can be skipped by adding data directly from website.
+Task -5 and task -6 skip can be skipped by adding data directly from website.
 <hr>
 
 ## Task 5: Enable network and user access
